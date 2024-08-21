@@ -5,4 +5,4 @@
 
 pwd # Check current working dir
 touch old_school.sh # Create new file
-mv old_school new_school.sh # Rename the file
+mv old_school.sh new_school.sh # Rename the file
