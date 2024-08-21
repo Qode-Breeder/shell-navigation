@@ -9,4 +9,4 @@
 - How to move or copy a file or directory
 
 ### Requirements
-. All tasks must be done inside the sandbox Ubuntu 22.04
+- All tasks must be done inside the sandbox Ubuntu 22.04
